@@ -1,0 +1,9 @@
+com\epam\akhadova\bdd\core\generalhelpers\PropertyFactory.class
+com\epam\akhadova\bdd\core\generalhelpers\Constants.class
+com\epam\akhadova\bdd\pages\HomePage.class
+com\epam\akhadova\bdd\core\webdriver\WebDriverFactory.class
+com\epam\akhadova\bdd\core\generalhelpers\WaiterHelper.class
+com\epam\akhadova\bdd\pages\SubcategoryPage.class
+com\epam\akhadova\bdd\pages\BasePage.class
+com\epam\akhadova\bdd\pages\ProductsPage.class
+com\epam\akhadova\bdd\core\generalhelpers\ClickerHelper.class
